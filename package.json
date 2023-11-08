@@ -1,0 +1,21 @@
+{
+  "name": "book_test",
+  "version": "1.0.0",
+  "description": "book test",
+  "main": "app.js",
+  "scripts": {
+    "local": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "joi": "^17.11.0",
+    "mongodb": "^4.12.1",
+    "nodemon": "^2.0.20"
+  }
+}
